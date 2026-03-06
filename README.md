@@ -75,9 +75,7 @@ mukul = {
 ## 🧠 How I Think About Data
 
 ```
-Raw Data  →  Ask the right question  →  Clean ruthlessly
-    →  Find the signal  →  Build something useful
-        →  Make it explainable  →  Ship it
+Raw Data → Ask the right question → Clean ruthlessly → Find the signal → Build something useful → Make it explainable → Ship it
 ```
 
 ---
