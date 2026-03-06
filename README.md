@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Mukul+👋;I+work+with+data.;I+build+with+Python.;I+think+in+SQL." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Mukul+%F0%9F%91%8B;I+work+with+data.;I+build+with+Python.;I+think+in+SQL." alt="Typing SVG" />
 
 *I find patterns. I build pipelines. I make data talk.*
 
